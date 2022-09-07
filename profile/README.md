@@ -1,5 +1,5 @@
 # LoRa Pitalia
-<p align="center"><img src="https://raw.githubusercontent.com/lorapitalia/.github/master/share/images/realistic.png" height="300" alt="Marlin Firmware logo" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/lorapitalia/.github/master/share/images/realistic_top.png" /></p>
 
 **LoRa® Pitalia** es un sistema *open source* de comunicaciones LoRa® en tiempo real para campo de alta disponibilidad.
 
